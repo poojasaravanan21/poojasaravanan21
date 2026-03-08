@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Electronic And Communication Engineering**
 
-- 💬 Ask me about **Java, DSA, SQL, C programming **
+- 💬 Ask me about **Java, DSA, SQL, C programming**
 
 - 📫 How to reach me **poojasaravanan2122@gmail.com**
 
